@@ -1,6 +1,6 @@
 <template>
   <footer>
-    Made by proletarians for purpose of class antisexist war
+    Made by proletarians for purposes of class antisexist war
   </footer>
 </template>
 
